@@ -182,7 +182,7 @@ nav {
     background: rgba(0, 0, 0, 0.4);
     backdrop-filter: blur(4px);
     border-radius: 20px;
-    /* Removed default animation to handle via JS or simple keyframes on active */
+    margin-top: 150px;
 }
 
 .slide.active .slide-content {
